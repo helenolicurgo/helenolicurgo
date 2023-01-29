@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @helenolicurgo
 - 👀 I’m interested in DevOps.
 - 🌱 I’m currently leaning about AWS Cloud services, administration and security. And I recently brush up my moves with Linux and I'm back in business.
+- :star2: I have a Scrum Certification.
+- :star2: And some OPSWAT certifications at Associate-level (“May I see your badge, officer?”).
 - :star2: Statistics for Data Analysis? I got you convert (in numbers) with a lot of experience under my belt in Advanced Statistical Analysis 
 - :star: I adore Python (intermediate) and know a very basic of Java (and I'm not good at all with this since college). SQL? Only the most basic skills for DB access and manipulation. And, of course the useful Excel... Who doesn’t? Oh, by the way, LINUX RULES!
 - :mortar_board: I'm undergraduate in Social Sciences: don't let it fools you, we need a LOT of complex Statistics to analyze society and PROPOSE models.
