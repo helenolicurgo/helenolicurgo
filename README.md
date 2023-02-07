@@ -3,8 +3,7 @@
 - 🌱 I’m currently leaning about AWS Cloud services, administration and security. And I recently brush up my moves with Linux and I'm back in business.
 - :star2: I have a Scrum Certification.
 - :star2: And some OPSWAT certifications at Associate-level (“May I see your badge, officer?”).
-- :star2: Statistics for Data Analysis? I got you convert (in numbers) with a lot of experience under my belt in Advanced Statistical Analysis 
-- :star: I adore Python (intermediate)
+- :star2: Statistics for Data Analysis? I got you convert (in numbers) with a lot of experience under my belt in Advanced Statistical Analysis.
 - :star: I know a basic of Java (and I'm not good at all with this since college).
 - :star: SQL? Only the most basic skills for DB access and manipulation.
 - :star: Of course the useful Excel... Who doesn’t?
