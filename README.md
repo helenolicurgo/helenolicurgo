@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @helenolicurgo
 - 👀 I’m interested in DevOps and some FullStack, but I prefer to be full of snacks.
 - 🌱 I’m currently leaning about AWS Cloud services, administration and security. And I recently brush up my moves with Linux and I'm back in business.
-- 🌟 I have a Scrum Certification. Yeah... :smirk:
+- 🌟 I have a Scrum Certification. I know, it's not that big, bvut I have one... :smirk:
 - 🌟 And some OPSWAT certifications at Associate-level (“May I see your badge, officer?”).
 - ⭐ Statistics for Data Analysis? I got you convert (in numbers) with a lot of experience under my belt in Advanced Statistical Analysis.
 - ⭐ I know a basic of Java (and I'm not good at all with this since college).
