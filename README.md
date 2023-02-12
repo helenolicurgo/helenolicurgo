@@ -9,7 +9,7 @@
 - ⭐ Of course the useful Excel... Who doesn’t?
 - 🌟 Oh, by the way, LINUX RULES!
 - 🎓 I'm undergraduate in Social Sciences: don't let it fools you, we need a LOT of complex Statistics to analyze society and PROPOSE models.
-- 🎓 I do not finish my undergraduation in Physics and I have no plans too in any foreseeable future. But I keep all the good tools from this time in my utility belt 🦇.
+- 🎓 I do not finish Physics and I have no plans too in any foreseeable future. But I keep all the good tools from this time in my utility belt 🦇.
 - 💞️ I’m looking to collaborate on ... Oh gosh, I don't have a slice of idea here. Let's see what the future holds...
 - 📫 You can reach me at my personal web site: https://www.heleno.net.br/ and check some of my photos :camera:, because I'm not only code .
 
